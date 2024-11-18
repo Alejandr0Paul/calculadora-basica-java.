@@ -1,2 +1,3 @@
 # calculadora-basica-java.
-calculadora en java realizando cambios en netbeans
+Alejandro Pual Filip 
+Creacion de una calculador en java por l aplicacion de netbeans
